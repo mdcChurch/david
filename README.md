@@ -1,3 +1,10 @@
+## 프로젝트 init 
+```bash
+python -m venv venv
+source venv/bin/activate  # Windows는 venv\Scripts\activate
+pip install -r requirements.txt
+```
+
 
 ## 프로젝트 구조 
 ```bash
